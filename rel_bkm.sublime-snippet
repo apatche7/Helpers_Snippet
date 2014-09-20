@@ -1,0 +1,8 @@
+<snippet>
+ <content><![CDATA[
+<link rel="bookmark" title="${1:}" href="${2:}">
+]]></content>
+  <tabTrigger>rel:bkm</tabTrigger>
+  <description>rel="bookmark"</description>
+  <scope>text.html.basic</scope>
+</snippet>

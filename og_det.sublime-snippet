@@ -1,0 +1,8 @@
+<snippet>
+ <content><![CDATA[
+<meta property="og:determiner" content="" />
+]]></content>
+  <tabTrigger>og:det</tabTrigger>
+  <description>property="og:determiner"</description>
+  <scope>text.html.basic</scope>
+</snippet>

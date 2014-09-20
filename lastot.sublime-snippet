@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+&:last-of-type {}
+]]></content>
+  <tabTrigger>lastot</tabTrigger>
+  <description>last-of-type</description>
+  <scope>source.less, source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+&:after {
+	content: " ";
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-top: 20px solid #f00;
+	position: absolute;
+}
+]]></content>
+  <tabTrigger>arrdwn</tabTrigger>
+  <description>arrow-down</description>
+  <scope>source.less, source.scss, source.sass, source.css</scope>
+</snippet>

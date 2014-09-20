@@ -1,0 +1,8 @@
+<snippet>
+ <content><![CDATA[
+<link rel="search" type="application/opensearchdescription+xml" title="${1:}" href="${2:}">${3:     // add <head profile="http://a9.com/-/spec/opensearch/1.1/">}
+]]></content>
+  <tabTrigger>rel:srch</tabTrigger>
+  <description>rel="search"</description>
+  <scope>text.html.basic</scope>
+</snippet>

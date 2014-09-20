@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[
+background: #fff url('../') center/cover no-repeat border-box scroll;
+]]></content>
+	<tabTrigger>backimage-s</tabTrigger>
+	<description>background image url</description>
+	<scope>source.less, source.scss, source.sass, source.css</scope>
+</snippet>

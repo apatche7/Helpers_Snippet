@@ -1,0 +1,8 @@
+<snippet>
+ <content><![CDATA[
+<link rel="canonical" href="${1:}">
+]]></content>
+  <tabTrigger>rel:can</tabTrigger>
+  <description>rel="canonical"</description>
+  <scope>text.html.basic</scope>
+</snippet>

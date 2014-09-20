@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+&:first-of-type {}
+]]></content>
+  <tabTrigger>frstot</tabTrigger>
+  <description>first-of-type</description>
+  <scope>source.less, source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+ <content><![CDATA[
+<link rel="author" type="text/plain" href="${1:}">
+]]></content>
+  <tabTrigger>rel:auth</tabTrigger>
+  <description>rel="author"</description>
+  <scope>text.html.basic</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+&:before {
+	content: '';
+}
+]]></content>
+  <tabTrigger>before</tabTrigger>
+  <description>:before</description>
+  <scope>source.less, source.sass, source.scss, source.css</scope>
+</snippet>

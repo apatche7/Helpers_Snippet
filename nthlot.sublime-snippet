@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+&:nth-last-of-type() {}
+]]></content>
+  <tabTrigger>nthlot</tabTrigger>
+  <description>nth-last-of-type</description>
+  <scope>source.less, source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,13 @@
+<snippet>
+  <!-- Example: Hello, ${1:this} is a ${2:snippet}. -->
+  <content><![CDATA[
+&:after {
+	content: '';
+}
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>after</tabTrigger>
+  <description>:after</description>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <scope>source.less, source.sass, source.scss, source.css</scope>
+</snippet>

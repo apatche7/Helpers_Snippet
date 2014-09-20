@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+&:first-child {}
+]]></content>
+  <tabTrigger>frstc</tabTrigger>
+  <description>first-child</description>
+  <scope>source.less, source.scss, source.sass</scope>
+</snippet>

@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+&:after {
+	content: " ";
+	border-top: 60px solid transparent;
+	border-bottom: 60px solid transparent;
+	border-left: 60px solid green;
+	position: absolute;
+}
+]]></content>
+  <tabTrigger>arrrit</tabTrigger>
+  <description>arrow-right</description>
+  <scope>source.less, source.scss, source.sass, source.css</scope>
+</snippet>

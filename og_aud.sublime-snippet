@@ -1,0 +1,8 @@
+<snippet>
+ <content><![CDATA[
+<meta property="og:audio" content="" />
+]]></content>
+  <tabTrigger>og:aud</tabTrigger>
+  <description>property="og:audio"</description>
+  <scope>text.html.basic</scope>
+</snippet>

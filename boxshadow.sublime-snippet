@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[box-shadow: inset 0px 0px 0px 0px rgba(0,0,0,1); /*h-shadow v-shadow blur spread color*/]]></content>
+  <tabTrigger>boxshadow</tabTrigger>
+  <description>box-shadow: 0px 0px 0px 0px rgba(0,0,0,1)</description>
+  <scope>source.less, source.scss, source.sass, source.css</scope>
+</snippet>

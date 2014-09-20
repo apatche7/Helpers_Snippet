@@ -1,0 +1,8 @@
+<snippet>
+ <content><![CDATA[
+<meta property="og:url" content="" />
+]]></content>
+  <tabTrigger>og:ur</tabTrigger>
+  <description>property="og:url"</description>
+  <scope>text.html.basic</scope>
+</snippet>

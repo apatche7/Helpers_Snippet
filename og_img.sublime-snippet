@@ -1,0 +1,8 @@
+<snippet>
+ <content><![CDATA[
+<meta property="og:image" content="" />
+]]></content>
+  <tabTrigger>og:img</tabTrigger>
+  <description>property="og:image"</description>
+  <scope>text.html.basic</scope>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+ <content><![CDATA[
+<meta property="og:video" content="" />
+]]></content>
+  <tabTrigger>og:vid</tabTrigger>
+  <description>property="og:video"</description>
+  <scope>text.html.basic</scope>
+</snippet>

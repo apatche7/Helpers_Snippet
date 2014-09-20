@@ -1,0 +1,8 @@
+<snippet>
+ <content><![CDATA[
+<link rel="last" href="${1:}">
+]]></content>
+  <tabTrigger>rel:last</tabTrigger>
+  <description>rel="last"</description>
+  <scope>text.html.basic</scope>
+</snippet>

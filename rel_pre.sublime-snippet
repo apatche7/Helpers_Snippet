@@ -1,0 +1,8 @@
+<snippet>
+ <content><![CDATA[
+<link rel="prefetch" href="${1:}">
+]]></content>
+  <tabTrigger>rel:pre</tabTrigger>
+  <description>rel="prefetch"</description>
+  <scope>text.html.basic</scope>
+</snippet>

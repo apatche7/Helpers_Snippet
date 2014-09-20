@@ -1,0 +1,19 @@
+<snippet>
+  <content><![CDATA[
+@font-face {
+    font-family: ${1:adamregular};
+    src: url('../fonts/${2:adam-webfont}.eot');
+    src: url('../fonts/${2:adam-webfont}.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/${2:adam-webfont}.woff2') format('woff2'),
+         url('../fonts/${2:adam-webfont}.woff') format('woff'),
+         url('../fonts/${2:adam-webfont}.ttf') format('truetype');
+}
+.reg (@size : 1rem) {
+        font-size: @size;
+        font-family: "${1:adamregular}";
+    }
+]]></content>
+  <tabTrigger>fface1-s</tabTrigger>
+  <description>@font-face short</description>
+  <scope>source.less, source.sass, source.scss</scope>
+</snippet>

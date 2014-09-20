@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+&:after {
+	content: " ";
+	border-left: 20px solid transparent;
+	border-right: 20px solid transparent;
+	border-bottom: 20px solid black;
+	position: absolute;
+}
+]]></content>
+  <tabTrigger>arrup</tabTrigger>
+  <description>arrow up</description>
+  <scope>source.less, source.scss, source.sass, source.css</scope>
+</snippet>

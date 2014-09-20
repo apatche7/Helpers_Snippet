@@ -1,0 +1,8 @@
+<snippet>
+ <content><![CDATA[
+<meta property="og:locale:alternate" content="" />
+]]></content>
+  <tabTrigger>og:locA</tabTrigger>
+  <description>property="og:locale:alternate"</description>
+  <scope>text.html.basic</scope>
+</snippet>

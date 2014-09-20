@@ -1,0 +1,8 @@
+<snippet>
+ <content><![CDATA[
+<link rel="help" href="${1:}">
+]]></content>
+  <tabTrigger>rel:hlp</tabTrigger>
+  <description>rel="help"</description>
+  <scope>text.html.basic</scope>
+</snippet>

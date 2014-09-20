@@ -1,0 +1,8 @@
+<snippet>
+ <content><![CDATA[
+<meta property="og:site_name" content="" />
+]]></content>
+  <tabTrigger>og:stna</tabTrigger>
+  <description>property="og:site_name"</description>
+  <scope>text.html.basic</scope>
+</snippet>

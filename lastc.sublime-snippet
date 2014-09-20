@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+&:last-child {}
+]]></content>
+  <tabTrigger>lastc</tabTrigger>
+  <description>last-child</description>
+  <scope>source.less, source.scss, source.sass</scope>
+</snippet>

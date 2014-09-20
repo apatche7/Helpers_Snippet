@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+&:nth-of-type() {}
+]]></content>
+  <tabTrigger>nthot</tabTrigger>
+  <description>:nth-of-type()</description>
+  <scope>source.less, source.scss, source.sass</scope>
+</snippet>

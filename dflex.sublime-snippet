@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+display: flex;
+flex-direction: row; /* row / row-reverse / column / column-reverse / */
+flex-grow: 0; /* (for items) */
+flex-shrink: 1; /* (for items) */
+order: 1; /* (for items) ,change the order of a div */
+flex-wrap: nowrap; /* nowrap / wrap / wrap-reverse */
+flex-basis: auto; /* auto / % / px / em */
+align-self: auto; /* auto / stretch / center / flex-start / flex-end / baseline (for items) */
+align-items: stretch; /* stretch / center / flex-start / flex-end / baseline */
+justify-content: flex-start; /* flex-start / flex-end / center / space-between / space-around (for row) */
+align-content: flex-start; /* flex-start / flex-end / center / space-between / space-around (for column) */
+flex-flow: row wrap; /* flex-direction + flex-wrap */
+flex-flow: 0 1 auto; /* flex-grow + flex-shrink + flex-basis  */
+]]>
+	</content>
+	<tabTrigger>dflex</tabTrigger>
+	<description>all flex prop</description>
+	<scope>source.less, source.scss, source.sass, source.css</scope>
+	</snippet>

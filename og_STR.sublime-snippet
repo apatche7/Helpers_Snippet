@@ -1,0 +1,12 @@
+<snippet>
+ <content><![CDATA[
+<meta property="og:${1:image}" content="" />${2:                // = og:image:url}
+<meta property="og:${1:image}:secure_url" content="" />${3:     // add (https) url}
+<meta property="og:${1:image}:type" content="" />
+<meta property="og:${1:image}:width" content="" />${4:          //not for audio}
+<meta property="og:${1:image}:height" content="" />${4:         //not for audio}
+]]></content>
+  <tabTrigger>og:STR</tabTrigger>
+  <description>Structured Properties for Image,Audio,Video</description>
+  <scope>text.html.basic</scope>
+</snippet>

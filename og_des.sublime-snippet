@@ -1,0 +1,8 @@
+<snippet>
+ <content><![CDATA[
+<meta property="og:description" content="" />
+]]></content>
+  <tabTrigger>og:des</tabTrigger>
+  <description>property="og:description"</description>
+  <scope>text.html.basic</scope>
+</snippet>

@@ -1,0 +1,14 @@
+<snippet>
+  <content><![CDATA[
+&:after {
+	content: " ";
+	border-top: 10px solid transparent;
+	border-bottom: 10px solid transparent;
+	border-right:10px solid blue;
+	position: absolute;
+}
+]]></content>
+  <tabTrigger>arrlft</tabTrigger>
+  <description>arrow-left</description>
+  <scope>source.less, source.scss, source.sass, source.css</scope>
+</snippet>
