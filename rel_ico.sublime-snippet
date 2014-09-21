@@ -1,6 +1,6 @@
 <snippet>
  <content><![CDATA[
-<link rel="icon" type="image/x-icon" href="${1:/favicon.ico}">
+<link rel="shortcut icon" type="image/x-icon" href="${1:/favicon.ico}">${2: // you can use PNG format (or specify the apple-touch-icon as favicon).}
 ]]></content>
   <tabTrigger>rel:ico</tabTrigger>
   <description>rel="icon"</description>

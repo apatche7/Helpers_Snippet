@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<link rel="apple-touch-icon" href="${1:apple-touch-icon-precomposed.png}" ${2:sizes=""}>${3: // add dif imgs sizes for different devices (76x76 or 120x120 or 152x152) or remove it if you dont need it.}
+]]></content>
+  <tabTrigger>rel:ios</tabTrigger>
+  <description>rel="apple-touch-icon"</description>
+  <scope>text.html.basic</scope>
+</snippet>

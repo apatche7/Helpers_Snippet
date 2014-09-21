@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[
+<meta name="apple-mobile-web-app-capable" content="yes">${1: // to view the website in the standalone mode (to look more like a native application)}
+<meta name="apple-mobile-web-app-status-bar-style" content="${2:black}">${3: // used with the above / change the color if you want}
+]]></content>
+  <tabTrigger>rel:iosSB</tabTrigger>
+  <description>view the website in the standalone mode</description>
+  <scope>text.html.basic</scope>
+</snippet>

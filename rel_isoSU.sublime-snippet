@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<link rel="apple-touch-startup-image" href="${1:startup.png}">${2: // the image must be 320x480 (this is a pic to be used as SS for the site like in Safari)}
+]]></content>
+  <tabTrigger>rel:isoSU</tabTrigger>
+  <description>rel="apple-touch-startup-image"</description>
+  <scope>text.html.basic</scope>
+</snippet>
