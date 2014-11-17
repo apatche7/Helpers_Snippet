@@ -1,0 +1,18 @@
+<snippet>
+  <content><![CDATA[
+@font-face {
+    font-family: '${1:adamregular}';
+        src: url('${2:adam-webfont}.eot');
+        src: url('${2:adam-webfont}.eot?#iefix') format('embedded-opentype'),
+         url('${2:adam-webfont}.woff2') format('woff2'),
+         url('${2:adam-webfont}.woff') format('woff'),
+         url('${2:adam-webfont}.ttf') format('truetype');
+    font-style: normal; /* normal / italic / oblique */
+    font-weight: normal; /* normal / bold / 100 / 200 / 300 / 400 / 500 / 600 / 700 / 800 / 900 */
+    font-stretch: normal; /* normal / condensed / ultra-condensed / extra-condensed / semi-condensed / expanded / semi-expanded / extra-expanded / ultra-expanded */
+}
+]]></content>
+  <tabTrigger>fface</tabTrigger>
+  <description>@font-face full</description>
+  <scope>source.less, source.sass, source.scss, source.css</scope>
+</snippet>

@@ -4,5 +4,5 @@
 ]]></content>
   <tabTrigger>frstot</tabTrigger>
   <description>first-of-type</description>
-  <scope>source.less, source.scss, source.sass</scope>
+  <scope>source.less, source.scss, source.sass, source.css</scope>
 </snippet>

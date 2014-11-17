@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-&:nth-last-child {}
+&:nth-last-child() {}
 ]]></content>
   <tabTrigger>nthlc</tabTrigger>
   <description>:nth-last-child()</description>
-  <scope>source.less, source.scss, source.sass</scope>
+  <scope>source.less, source.scss, source.sass, source.css</scope>
 </snippet>

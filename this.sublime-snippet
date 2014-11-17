@@ -1,0 +1,9 @@
+<snippet>
+	<content><![CDATA[
+\$this->
+]]>
+	</content>
+	<tabTrigger>this</tabTrigger>
+	<description>$this-></description>
+	<scope>source.php</scope>
+</snippet>

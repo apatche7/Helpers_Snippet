@@ -1,0 +1,15 @@
+<snippet>
+	<content><![CDATA[
+background-color: transparent;
+background-image: url('../');
+background-position: center; /* left top-center-bottom _ right top-center-bottom _ center top-center-bottom / x% y% / 0px 0px */
+background-size: cover; /* auto / length (w h) / percentage (w h) / cover / contain */
+background-repeat: no-repeat; /* repeat / repeat-x / repeat-y / no-repeat */
+background-origin: border-box; /* padding-box / border-box / content-box */
+background-clip: border-box; /* border-box / padding-box / content-box */
+background-attachment: scroll; /* scroll / fixed / local */
+		]]></content>
+	<tabTrigger>backimage</tabTrigger>
+	<description>background image url</description>
+	<scope>source.less, source.scss, source.sass, source.css</scope>
+</snippet>

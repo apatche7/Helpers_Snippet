@@ -1,10 +1,8 @@
 <snippet>
   <content><![CDATA[
-&:after {
-	content: '';
-}
+!important
 ]]></content>
-  <tabTrigger>after</tabTrigger>
-  <description>:after</description>
+  <tabTrigger>impr</tabTrigger>
+  <description>!important</description>
   <scope>source.less, source.sass, source.scss, source.css</scope>
 </snippet>

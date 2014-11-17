@@ -4,5 +4,5 @@
 ]]></content>
   <tabTrigger>frstc</tabTrigger>
   <description>first-child</description>
-  <scope>source.less, source.scss, source.sass</scope>
+  <scope>source.less, source.scss, source.sass, source.css</scope>
 </snippet>

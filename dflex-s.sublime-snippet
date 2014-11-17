@@ -1,0 +1,13 @@
+<snippet>
+	<content><![CDATA[
+display: flex;
+flex-flow: row wrap;
+justify-content: space-between; /* (for row) */
+align-content: space-between; /* (for column) */
+align-self: auto; /* (for items) */
+]]>
+	</content>
+	<tabTrigger>dflex-s</tabTrigger>
+	<description>all flex prop</description>
+	<scope>source.less, source.scss, source.sass, source.css</scope>
+</snippet>

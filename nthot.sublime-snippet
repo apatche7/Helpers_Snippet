@@ -4,5 +4,5 @@
 ]]></content>
   <tabTrigger>nthot</tabTrigger>
   <description>:nth-of-type()</description>
-  <scope>source.less, source.scss, source.sass</scope>
+  <scope>source.less, source.scss, source.sass, source.css</scope>
 </snippet>

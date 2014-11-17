@@ -4,5 +4,5 @@
 ]]></content>
   <tabTrigger>nthc</tabTrigger>
   <description>:nth-child()</description>
-  <scope>source.less, source.scss, source.sass</scope>
+  <scope>source.less, source.scss, source.sass, source.css</scope>
 </snippet>

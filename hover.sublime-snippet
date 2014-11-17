@@ -1,8 +1,8 @@
 <snippet>
   <content><![CDATA[
-&:last-child {}
+&:hover {}
 ]]></content>
-  <tabTrigger>lastc</tabTrigger>
-  <description>last-child</description>
+  <tabTrigger>hover</tabTrigger>
+  <description>:hover</description>
   <scope>source.less, source.scss, source.sass, source.css</scope>
 </snippet>

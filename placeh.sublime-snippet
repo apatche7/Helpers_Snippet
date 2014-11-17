@@ -1,0 +1,21 @@
+<snippet>
+  <content><![CDATA[
+::-webkit-input-placeholder { ${1:/* WebKit browsers */}
+    ${2:css}
+}
+:-moz-placeholder { ${1:/* Mozilla Firefox 4 to 18 */}
+   ${2:css}
+   opacity:  1;
+}
+::-moz-placeholder { ${1:/* Mozilla Firefox 19+ */}
+   ${2:css}
+   opacity:  1;
+}
+:-ms-input-placeholder { ${1:/* Internet Explorer 10+ */}
+   ${2:css}
+}
+]]></content>
+  <tabTrigger>placeh</tabTrigger>
+  <description>placeholder</description>
+  <scope>source.less, source.css, source.sass, source.scss</scope>
+</snippet>

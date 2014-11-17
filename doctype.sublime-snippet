@@ -1,0 +1,24 @@
+<snippet>
+  <content><![CDATA[
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="description" content="${1:A Test Experiment}">
+    <title>${2:}</title>
+
+    ${3:<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+    <link rel="apple-touch-icon" href="apple-touch-icon-precomposed.png">}
+    <link rel="stylesheet" href="${4:css/style}.css">
+</head>
+<body>
+    ${5:}
+</body>
+</html>
+]]></content>
+  <tabTrigger>doctype</tabTrigger>
+  <description>html5 doctype!!!</description>
+  <scope>text.html.basic</scope>
+</snippet>

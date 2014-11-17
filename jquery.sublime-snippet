@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA[
+<script type="text/javascript" src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+]]></content>
+  <tabTrigger>jquery</tabTrigger>
+  <description>jquery2.1.1 cdn</description>
+  <scope>text.html</scope>
+</snippet>
