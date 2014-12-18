@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[->getPathname()]]></content>
+	<tabTrigger>getpathname</tabTrigger>
+	<description>getPathname()</description>
+	<scope>source.php</scope>
+</snippet>

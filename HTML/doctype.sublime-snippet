@@ -1,0 +1,31 @@
+<snippet>
+  <content><![CDATA[
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="robots" content="index,follow">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>${2:}</title>
+  <meta name="author" content="Name">
+  <meta name="description" content="${1:A Test Experiment}">
+  ${3:<link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+  <link rel="apple-touch-icon" href="apple-touch-icon-precomposed.png">}
+  <link rel="stylesheet" href="${4:css/style}.css">
+
+  <!-- Google Webmaster Tools Site-verification: change XXXXX with the one from your Webmaster Tools. -->
+  <meta name="google-site-verification" content="XXXXX"/>
+
+</head>
+<body>
+    ${5:}
+</body>
+</html>
+]]></content>
+  <tabTrigger>doctype</tabTrigger>
+  <description>html5 doctype!!!</description>
+  <scope>text.html.basic</scope>
+</snippet>
