@@ -12,7 +12,7 @@
     font-stretch: normal; /* normal / condensed / ultra-condensed / extra-condensed / semi-condensed / expanded / semi-expanded / extra-expanded / ultra-expanded */
 }
 .${1:adamregular} (@size) {
-        font-size: (@size/16rem);
+        font-size: unit(@size/16,rem);
         font-family: "${1:adamregular}";
     }
 ]]></content>

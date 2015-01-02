@@ -1,0 +1,18 @@
+{
+  // words i keep forgetting
+  "scope": "all,",
+  "completions":
+  [
+    [ "eloq\tLara", "Eloquent" ],
+    [ "reg\tWords", "registration" ],
+    [ "repo\tWords", "repository" ],
+    [ "bool\tWords", "boolean" ],
+    [ "imp\tWords", "implements" ],
+    [ "succ\tWords", "successfully" ],
+    [ "cen\tWords", "center" ],
+    [ "pri\tWords", "primary" ],
+    [ "avail\tWords", "availability" ],
+    [ "prod\tWords", "products" ],
+    [ "cat\tWords", "category" ],
+  ]
+}

@@ -1,0 +1,48 @@
+{
+    // Laravel v4.2
+
+    "scope": "source.php.embedded.block.html string.quoted.single.php",
+    "completions":
+    [
+        // Validation Rules
+        [ "acc\tValid_Rules", "accepted" ],
+        [ "acti\tValid_Rules", "active_url" ],
+        [ "befd\tValid_Rules", "before:date" ],
+        [ "aftd\tValid_Rules", "after:date" ],
+        [ "alp\tValid_Rules", "alpha" ],
+        [ "alpd\tValid_Rules", "alpha_dash" ],
+        [ "alpn\tValid_Rules", "alpha_num" ],
+        [ "arr\tValid_Rules", "array" ],
+        [ "bet\tValid_Rules", "between:min,max" ],
+        [ "bool\tValid_Rules", "boolean" ],
+        [ "conf\tValid_Rules", "confirmed" ],
+        [ "date\tValid_Rules", "date" ],
+        [ "datef\tValid_Rules", "date_format:format" ],
+        [ "diff\tValid_Rules", "different:input_name" ],
+        [ "digit\tValid_Rules", "digits:value" ],
+        [ "digitbet\tValid_Rules", "digits_between:min,max" ],
+        [ "email\tValid_Rules", "email" ],
+        [ "exist\tValid_Rules", "exists:table,column,where,equalto" ],
+        [ "img\tValid_Rules", "image" ],
+        [ "in:\tValid_Rules", "in:foo,bar,..." ],
+        [ "int\tValid_Rules", "integer" ],
+        [ "ip\tValid_Rules", "ip" ],
+        [ "max\tValid_Rules", "max:value" ],
+        [ "min\tValid_Rules", "min:value" ],
+        [ "mime\tValid_Rules", "mimes:type1,type2,..." ],
+        [ "notin\tValid_Rules", "not_in:foo,bar,..." ],
+        [ "num\tValid_Rules", "numeric" ],
+        [ "reg\tValid_Rules", "regex:pattern" ],
+        [ "req\tValid_Rules", "required" ],
+        [ "reqif\tValid_Rules", "required_if:input_name,value,..." ],
+        [ "reqwi\tValid_Rules", "required_with:foo,bar,..." ],
+        [ "reqwiall\tValid_Rules", "required_with_all:foo,bar,..." ],
+        [ "reqwiout\tValid_Rules", "required_without:foo,bar,..." ],
+        [ "reqwioutall\tValid_Rules", "required_without_all:foo,bar,..." ],
+        [ "same\tValid_Rules", "same:input_name" ],
+        [ "size\tValid_Rules", "size:value" ],
+        [ "timez\tValid_Rules", "timezone" ],
+        [ "uni\tValid_Rules", "unique:table,column,except,idColumn" ],
+        [ "url\tValid_Rules", "url" ],
+    ]
+}
