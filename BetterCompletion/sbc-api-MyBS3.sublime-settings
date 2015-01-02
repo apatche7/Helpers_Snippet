@@ -49,10 +49,10 @@
 
     [ "v-align-main\tBootstrapClass", "v-align-main" ],
     [ "v-align\tBootstrapClass", "v-align" ],
+    [ "v-align\tBootstrapClass", "v-divider" ],
 
     [ "hidden-xxs\tBootstrapClass", "hidden-xxs" ],
     [ "visible-xxs\tBootstrapClass", "visible-xxs" ],
-
 
     [ "col-xxs-1\tBootstrapClass", "col-xxs-1" ],
     [ "col-xxs-2\tBootstrapClass", "col-xxs-2" ],
