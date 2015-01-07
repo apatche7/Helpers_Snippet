@@ -1,7 +1,7 @@
 {
     // strftime
 
-    "scope": "source.php,",
+    "scope": "source.php.embedded.block.html string.quoted.single.php, source.php.embedded.block.html string.quoted.double.php",
     "completions":
     [
         [ "%a\tSun", "%a"],

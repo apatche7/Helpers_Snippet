@@ -1,6 +1,0 @@
-<snippet>
-	<content><![CDATA[function(${1:}){${2:}}]]></content>
-	<tabTrigger>function</tabTrigger>
-	<description>function()</description>
-	<scope>source.php</scope>
-</snippet>

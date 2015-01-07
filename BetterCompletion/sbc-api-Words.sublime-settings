@@ -10,7 +10,7 @@
     [ "imp\tWords", "implements" ],
     [ "succ\tWords", "successfully" ],
     [ "cen\tWords", "center" ],
-    [ "pri\tWords", "primary" ],
+    [ "prim\tWords", "primary" ],
     [ "avail\tWords", "availability" ],
     [ "prod\tWords", "products" ],
     [ "cat\tWords", "category" ],

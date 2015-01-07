@@ -1,0 +1,42 @@
+{
+  // colors
+  "scope": "source.css, source.html, source.less, source.sass, source.scss",
+  "completions":
+  [
+    [ "aqua1\tColors", "#1abc9c" ],
+    [ "aqua2\tColors", "#16a085" ],
+    [ "aqua\tColors", "#7FDBFF" ],
+    [ "black\tColors", "#111" ],
+    [ "blue\tColors", "#0074D9" ],
+    [ "blue1\tColors", "#3498db" ],
+    [ "blue2\tColors", "#2980b9" ],
+    [ "fuchsia\tColors", "#F012BE" ],
+    [ "green\tColors", "#2ECC40" ],
+    [ "green1\tColors", "#2ecc71" ],
+    [ "green2\tColors", "#27ae60" ],
+    [ "grey\tColors", "#ccc" ],
+    [ "grey1\tColors", "#aaa" ],
+    [ "grey2\tColors", "#ebebeb" ],
+    [ "grey3\tColors", "#f5f5f5" ],
+    [ "lime\tColors", "#01FF70" ],
+    [ "maroon\tColors", "#85144B" ],
+    [ "navy\tColors", "#001F3F" ],
+    [ "navy1\tColors", "#34495e" ],
+    [ "navy2\tColors", "#2c3e50" ],
+    [ "olive\tColors", "#3D9970" ],
+    [ "orange\tColors", "#FF851B" ],
+    [ "orange1\tColors", "#e67e22" ],
+    [ "orange2\tColors", "#d35400" ],
+    [ "purple\tColors", "#B10DC9" ],
+    [ "purple1\tColors", "#9b59b6" ],
+    [ "purple2\tColors", "#8e44ad" ],
+    [ "red\tColors", "#FF4136" ],
+    [ "red1\tColors", "#e74c3c" ],
+    [ "red2\tColors", "#c0392b" ],
+    [ "silver\tColors", "#ddd" ],
+    [ "teal\tColors", "#39CCCC" ],
+    [ "yellow\tColors", "#FFDC00" ],
+    [ "yellow1\tColors", "#f1c40f" ],
+    [ "yellow2\tColors", "#f39c12" ]
+  ]
+}

@@ -1,7 +1,7 @@
 {
     // nesbitt/Carbon
 
-    "scope": "source.php,",
+    "scope": "source.php",
     "completions":
     [
         [ "addDay\tCarbon", "->addDay()" ],
