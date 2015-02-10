@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+label {
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+}
+]]></content>
+  <tabTrigger>nolabelselect</tabTrigger>
+  <description>disable label selection</description>
+  <scope>source.less, source.sass, source.scss, source.css</scope>
+</snippet>

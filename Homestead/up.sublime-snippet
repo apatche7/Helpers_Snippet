@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[homestead up]]></content>
+    <tabTrigger>hup</tabTrigger>
+    <scope>all,</scope>
+</snippet>

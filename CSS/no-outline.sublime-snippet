@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+*,
+*::before,
+*::after {
+    outline: none !important;
+    box-shadow: none !important;
+}
+]]></content>
+  <tabTrigger>nooutline</tabTrigger>
+  <description>remove outline & shadow</description>
+  <scope>source.less, source.sass, source.scss, source.css</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[homestead destroy]]></content>
+    <tabTrigger>hd</tabTrigger>
+    <scope>all,</scope>
+</snippet>

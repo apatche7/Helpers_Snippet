@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[homestead halt]]></content>
+    <tabTrigger>halt</tabTrigger>
+    <scope>all,</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[homestead provision]]></content>
+    <tabTrigger>hp</tabTrigger>
+    <scope>all,</scope>
+</snippet>

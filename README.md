@@ -1,6 +1,7 @@
 Helpers_Snippet
 ===============
 
-- Some Snippets for Html,Css/Less/etc...
+- Some Util/Helper Snippets.
 
-- for BetterCompletion install https://packagecontrol.io/packages/Better%20Completion
+* for BetterCompletion install https://packagecontrol.io/packages/Better%20Completion
+* for Homestead support install https://packagecontrol.io/packages/Run

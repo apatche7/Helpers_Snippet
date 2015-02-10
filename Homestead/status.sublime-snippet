@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[homestead status]]></content>
+    <tabTrigger>hstat</tabTrigger>
+    <scope>all,</scope>
+</snippet>

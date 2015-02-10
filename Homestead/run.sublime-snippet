@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[homestead run]]></content>
+    <tabTrigger>hrun</tabTrigger>
+    <scope>all,</scope>
+</snippet>
