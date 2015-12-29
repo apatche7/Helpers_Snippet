@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[homestead suspend]]></content>
-    <tabTrigger>hs</tabTrigger>
+    <tabTrigger>hsusp</tabTrigger>
     <scope>all,</scope>
 </snippet>

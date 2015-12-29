@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[array_unshift(${1:array},${2:item'sToadd})]]></content>
+	<tabTrigger>addtoarraystart</tabTrigger>
+	<description>add an element to the beginning of array</description>
+	<scope>source.php</scope>
+</snippet>

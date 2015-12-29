@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[array_pop(${1:array})]]></content>
+	<tabTrigger>removefromarrayend</tabTrigger>
+	<description>remove an element from the end of array</description>
+	<scope>source.php</scope>
+</snippet>

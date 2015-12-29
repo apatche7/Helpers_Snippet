@@ -1,0 +1,16 @@
+<snippet>
+  <content><![CDATA[
+new.stprj
+Proj-01 (
+css/style.css
+less/style.less
+fonts/
+js/
+img/
+index.html
+)
+]]></content>
+  <tabTrigger>stproj</tabTrigger>
+  <description>stproj</description>
+  <scope>text.plain</scope>
+</snippet>

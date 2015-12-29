@@ -14,5 +14,7 @@
     [ "avail\tWords", "availability" ],
     [ "prod\tWords", "products" ],
     [ "cat\tWords", "category" ],
+    [ "init\tWords", "initialize" ],
+    [ "req\tWords", "required" ],
   ]
 }

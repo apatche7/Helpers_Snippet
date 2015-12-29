@@ -1,5 +1,5 @@
 <snippet>
     <content><![CDATA[homestead halt]]></content>
-    <tabTrigger>halt</tabTrigger>
+    <tabTrigger>hstop</tabTrigger>
     <scope>all,</scope>
 </snippet>

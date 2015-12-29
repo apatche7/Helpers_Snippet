@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[array_push(${1:array},${2:item'sToAdd})]]></content>
+	<tabTrigger>addtoarrayend</tabTrigger>
+	<description>add an element to the end of array</description>
+	<scope>source.php</scope>
+</snippet>

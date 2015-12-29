@@ -1,0 +1,10 @@
+<snippet>
+  <content><![CDATA[
+.otherwise({
+	redirectTo: '$1'
+})
+  	]]></content>
+  <tabTrigger>.other</tabTrigger>
+  <description>Ang-route otherwise</description>
+  <scope>source.js</scope>
+</snippet>

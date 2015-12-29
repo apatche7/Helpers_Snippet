@@ -1,0 +1,11 @@
+{
+    // Content-Type
+
+    "scope": "source.php.embedded.block.html string.quoted.single.php, source.php.embedded.block.html string.quoted.double.php",
+    "completions":
+    [
+        ["json\tContent_Type", "Content-Type: application/json"],
+        ["png\tContent_Type", "Content-Type: image/png"],
+        ["zip\tContent_Type", "Content-Type: application/zip"],
+    ]
+}

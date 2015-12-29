@@ -1,0 +1,13 @@
+<snippet>
+  <content><![CDATA[
+/* removes variables from the global scope. This helps prevent variables and function declarations from living longer than expected in the global scope */
+(function() {
+	'use strict';
+
+    $0 // your code here
+})();
+  	]]></content>
+  <tabTrigger>sinvf</tabTrigger>
+  <description>avoid leaking into global scope</description>
+  <scope>source.js</scope>
+</snippet>

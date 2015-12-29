@@ -1,0 +1,11 @@
+<snippet>
+  <content><![CDATA[
+.when('/list', {
+	templateUrl: '$1',
+	controller: '$2'
+})
+  	]]></content>
+  <tabTrigger>.when</tabTrigger>
+  <description>Ang-route when</description>
+  <scope>source.js</scope>
+</snippet>

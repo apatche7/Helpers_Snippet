@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[array_shift(${1:array})]]></content>
+	<tabTrigger>removefromarraystart</tabTrigger>
+	<description>remove an element of the beginning of array</description>
+	<scope>source.php</scope>
+</snippet>
