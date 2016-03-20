@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+Route::group(['middleware' => '${1:auth}'], function () {
+    $0// Uses Auth Middleware
+});
+]]></content>
+    <tabTrigger>route-middleware</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
+

@@ -1,0 +1,18 @@
+<snippet>
+	<content><![CDATA[
+Vue.component('${1:htmlTagName}',{
+    template: '${2:}',
+    props: ['${3:}'],
+    data: function() {
+        ${4:}
+    },
+    methods: {
+        ${5:methodName}: function() {
+            ${6:}
+        }
+    }
+});
+]]></content>
+	<tabTrigger>vue-component</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

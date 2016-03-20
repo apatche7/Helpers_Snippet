@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[\$this->ask('${1:Question}');]]></content>
+  <tabTrigger>console-ask</tabTrigger>
+  <scope>source.php</scope>
+</snippet>

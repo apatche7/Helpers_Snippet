@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Log::error('${1:message}');]]></content>
+    <tabTrigger>log-error</tabTrigger>
+    <scope>source.php</scope>
+    <description>Log an error message to the logs.</description>
+</snippet>

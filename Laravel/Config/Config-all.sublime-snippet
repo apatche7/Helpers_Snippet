@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Config::all();]]></content>
+    <tabTrigger>config-all</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

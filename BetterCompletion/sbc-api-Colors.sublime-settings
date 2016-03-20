@@ -1,6 +1,6 @@
 {
   // colors
-  "scope": "all,",
+  "scope": "source.css, source.sass, source.scss, meta.value.css",
   "completions":
   [
     ["aliceblue\tColors", "#f0f8ff"],

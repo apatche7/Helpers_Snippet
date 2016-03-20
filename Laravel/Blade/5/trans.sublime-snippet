@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[{{ trans('${0:language.line}') }}]]></content>
+    <tabTrigger>trans</tabTrigger>
+    <scope>text.blade</scope>
+</snippet>

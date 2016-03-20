@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[@break(${1:} == ${2:})]]></content>
+    <tabTrigger>break</tabTrigger>
+    <description>@break</description>
+    <scope>text.blade</scope>
+</snippet>

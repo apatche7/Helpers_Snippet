@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[\$this->choice('${1:What is your name?', ['Taylor', 'Dayle'], false});]]></content>
+  <tabTrigger>console-choice</tabTrigger>
+  <scope>source.php</scope>
+</snippet>

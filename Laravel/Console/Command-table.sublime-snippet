@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[\$this->table('${1:\$header}, ${2:\$row}');]]></content>
+  <tabTrigger>console-table</tabTrigger>
+  <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+Route::group(['prefix' => '${1:admin}'], function () {
+    $0 // Matches The "/admin/etc.." URL
+});
+]]></content>
+    <tabTrigger>route-prefix</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
+

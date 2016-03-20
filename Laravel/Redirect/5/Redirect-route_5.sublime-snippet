@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[return redirect()->route('${named_route}', ${2:['parameterKey' => 'value']})]]></content>
+    <tabTrigger>redirect-route</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

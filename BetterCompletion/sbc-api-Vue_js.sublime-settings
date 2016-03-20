@@ -1,0 +1,26 @@
+{
+  // VueJs complation
+  "scope": "text.html meta.tag",
+  "completions":
+  [
+    ["vtext\tVueJS", "v-text=\"${1:textContext}\""],
+    ["vhtml\tVueJS", "v-html=\"${1:html}\""],
+    ["vshow\tVueJS", "v-show=\"${1:modelName}\""],
+    ["vif\tVueJS", "v-if=\"${1:your_if_statement || modelName}\""],
+    ["vclass\tVueJS", "v-class=\"${1:classOnly}\""],
+    ["vattr\tVueJS", "v-attr=\"${1:moreAttributes}\""],
+    ["vstyle\tVueJS", "v-style=\"${1:cssStyleOnly}\""],
+    ["von\tVueJS", "v-on=\"${1:}\""],
+    ["vmodel\tVueJS", "v-model=\"${1:modelName}\""],
+    ["vfor\tVueJS", "v-for=\"${1:array}\""],
+    ["vtransition\tVueJS", "v-transition=\"${1}\""],
+    ["vref\tVueJS", "v-ref=\"$1\""],
+    ["vel\tVueJS", "v-el=\"$1\""],
+    ["velse\tVueJS", "v-else"],
+    ["vpre\tVueJS", "v-pre"],
+    ["vcloak\tVueJS", "v-cloak"],
+    ["vclick\tVueJS", "@click=\"${1:methodName}\""],
+    ["vsubmit\tVueJS", "@submit=\"${1:methodName}\""],
+    ["vintemp\tVueJS", "inline-template"]
+  ]
+}

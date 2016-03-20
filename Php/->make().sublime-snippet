@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[->make()]]></content>
+	<tabTrigger>make</tabTrigger>
+	<description>laravel 5 factory make</description>
+	<scope>source.php</scope>
+</snippet>

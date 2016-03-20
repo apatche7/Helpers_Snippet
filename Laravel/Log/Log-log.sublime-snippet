@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Log::log('${1:\level}', '${2:message}'');]]></content>
+    <tabTrigger>log-log</tabTrigger>
+    <scope>source.php</scope>
+    <description>Log a message to the logs.</description>
+</snippet>

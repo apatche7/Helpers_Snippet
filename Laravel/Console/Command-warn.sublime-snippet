@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[\$this->warn('${1:Message}');]]></content>
+  <tabTrigger>console-warn</tabTrigger>
+  <scope>source.php</scope>
+</snippet>

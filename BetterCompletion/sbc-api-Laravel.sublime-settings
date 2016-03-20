@@ -1,7 +1,7 @@
 {
     // Laravel v4.2
 
-    "scope": "source.php.embedded.block.html string.quoted.single.php",
+    "scope": "meta.embedded.block.php source string.quoted.single.php",
     "completions":
     [
         // Validation Rules

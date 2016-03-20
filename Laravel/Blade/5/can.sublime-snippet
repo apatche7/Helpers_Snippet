@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+@can('${1:policy}', \$${2:model})
+    ${3:{{-- expr --\}\}}
+@endcan
+    ]]></content>
+    <tabTrigger>can</tabTrigger>
+    <description>@can</description>
+    <scope>text.blade</scope>
+</snippet>

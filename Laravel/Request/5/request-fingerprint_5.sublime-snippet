@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[\$request->fingerprint()]]></content>
+    <tabTrigger>request-fingerprint</tabTrigger>
+    <scope>source.php</scope>
+    <description>Get a unique fingerprint for the request / route / IP address.</description>
+</snippet>

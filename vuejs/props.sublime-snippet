@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[
+props: ['$0']
+]]></content>
+	<tabTrigger>vprops[]</tabTrigger>
+	<scope>source.js</scope>
+</snippet>

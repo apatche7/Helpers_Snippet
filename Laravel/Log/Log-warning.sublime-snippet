@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[Log::warning('${1:message}');]]></content>
+    <tabTrigger>log-warning</tabTrigger>
+    <scope>source.php</scope>
+    <description>Log a warning message to the logs.</description>
+</snippet>

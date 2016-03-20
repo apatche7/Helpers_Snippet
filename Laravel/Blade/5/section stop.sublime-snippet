@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+@section('${1:name}')
+    ${0:{{-- expr --\}\}}
+@stop
+]]></content>
+    <tabTrigger>sec</tabTrigger>
+    <description>@section stop</description>
+    <scope>text.blade</scope>
+</snippet>

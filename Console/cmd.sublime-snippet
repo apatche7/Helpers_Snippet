@@ -1,6 +1,0 @@
-<snippet>
-    <content><![CDATA[sublime.log_commands(True)]]></content>
-    <tabTrigger>cmd</tabTrigger>
-    <description>show run cmnds in console</description>
-    <scope>all,</scope>
-</snippet>

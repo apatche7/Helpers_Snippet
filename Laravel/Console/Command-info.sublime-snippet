@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[\$this->info('${1:Message}');]]></content>
+  <tabTrigger>console-info</tabTrigger>
+  <scope>source.php</scope>
+</snippet>

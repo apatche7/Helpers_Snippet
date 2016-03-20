@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[\$this->confirm('${1:Do you wish to continue? [y|N]}');]]></content>
+  <tabTrigger>console-confirm</tabTrigger>
+  <scope>source.php</scope>
+</snippet>

@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[\$this->line('${1:Display this on the screen}');]]></content>
+  <tabTrigger>console-line</tabTrigger>
+  <scope>source.php</scope>
+</snippet>

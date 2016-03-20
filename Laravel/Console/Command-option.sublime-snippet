@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[\$this->option('${1}');]]></content>
+  <tabTrigger>console-option</tabTrigger>
+  <scope>source.php</scope>
+</snippet>

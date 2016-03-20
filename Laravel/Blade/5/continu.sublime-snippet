@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[@continue(${1:} == ${2:})]]></content>
+    <tabTrigger>cont</tabTrigger>
+    <description>@continue</description>
+    <scope>text.blade</scope>
+</snippet>

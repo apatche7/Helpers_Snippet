@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[->index();]]></content>
+    <tabTrigger>tindex()</tabTrigger>
+    <description>->index()</description>
+    <scope>source.php</scope>
+</snippet>

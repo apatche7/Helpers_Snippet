@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[{{ url('${0:path}') }}]]></content>
+    <tabTrigger>url</tabTrigger>
+    <scope>text.blade</scope>
+</snippet>

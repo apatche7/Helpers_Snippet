@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+@if (${1:condition})
+    ${2:{{-- true expr --\}\}}
+@else
+    ${3:{{-- false expr --\}\}}
+@endif$0
+    ]]></content>
+    <tabTrigger>ife</tabTrigger>
+    <description>@if_else</description>
+    <scope>text.blade</scope>
+</snippet>

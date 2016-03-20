@@ -14,23 +14,29 @@
   // `false` means disable it.
   "completion_active_list": {
     // build-in completions
-    "gruntjs-plugins": false,
     "html": true,
     "javascript": true,
     "jquery": true,
     "jquery-sq": true, // Single Quote
-    "php": true,
-    "phpci": false,
     "twitter-bootstrap3": true,
+    "css-properties": false,
+    "gruntjs-plugins": false,
+    "lodash": false,
+    "php": false,
+    "phpci": false,
+    "sql": false,
+    "twitter-bootstrap": false,
+    "twitter-bootstrap-less-variables": false,
     "underscorejs": false,
 
     // Your own completions?
-    "MyBS3": true,
     "Words": true,
     "Laravel": true,
     "Carbon": true,
     "strFtime": true,
     "Faker": true,
     "Colors": true,
+    "Cont_Type": true,
+    "Vue_js": true
   }
 }

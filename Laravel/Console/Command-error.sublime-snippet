@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[\$this->error('${1:Message}');]]></content>
+  <tabTrigger>console-error</tabTrigger>
+  <scope>source.php</scope>
+</snippet>

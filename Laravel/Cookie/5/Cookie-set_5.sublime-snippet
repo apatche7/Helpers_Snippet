@@ -1,0 +1,5 @@
+<snippet>
+	<content><![CDATA[\$response->withCookie(cookie('${1:key}', ${2:\$value}));]]></content>
+	<tabTrigger>cookie-set</tabTrigger>
+	<scope>source.php</scope>
+</snippet>

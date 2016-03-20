@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[@parent]]></content>
+    <tabTrigger>par</tabTrigger>
+    <description>@parent</description>
+    <scope>text.blade</scope>
+</snippet>

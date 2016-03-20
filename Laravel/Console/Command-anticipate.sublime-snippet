@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[\$this->anticipate('${1:Message}');]]></content>
+  <tabTrigger>console-anticipate</tabTrigger>
+  <scope>source.php</scope>
+</snippet>

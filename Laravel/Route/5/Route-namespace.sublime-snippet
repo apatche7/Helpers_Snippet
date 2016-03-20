@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+Route::group(['namespace' => '${1:Admin}'], function () {
+    $0 // Controllers Within The "App\Http\Controllers\Admin" Namespace
+});
+]]></content>
+    <tabTrigger>route-namespace</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

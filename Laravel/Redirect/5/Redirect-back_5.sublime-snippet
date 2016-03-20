@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[return redirect()->back()${1:->withErrors(\$validator)}${2:->withInput()};]]></content>
+    <tabTrigger>redirect-back</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

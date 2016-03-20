@@ -1,0 +1,6 @@
+<snippet>
+    <content><![CDATA[return view('${1:view.name}');]]></content>
+    <tabTrigger>view-make</tabTrigger>
+    <scope>source.php</scope>
+    <description>Create a View with Data</description>
+</snippet>

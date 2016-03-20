@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[\$this->question('${1:Message}');]]></content>
+  <tabTrigger>console-question</tabTrigger>
+  <scope>source.php</scope>
+</snippet>

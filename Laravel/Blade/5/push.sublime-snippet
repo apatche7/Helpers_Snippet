@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+@push('${1:name}')
+    ${0:{{-- expr --\}\}}
+@endpush
+    ]]></content>
+    <tabTrigger>push</tabTrigger>
+    <description>@push</description>
+    <scope>text.blade</scope>
+</snippet>
