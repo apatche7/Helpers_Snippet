@@ -32,6 +32,7 @@
     // Your own completions?
     "Words": true,
     "Laravel": true,
+    "Lrvl_Collection": true,
     "Carbon": true,
     "strFtime": true,
     "Faker": true,

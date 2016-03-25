@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[->sortBy('${1:}')]]></content>
-    <tabTrigger>sortby</tabTrigger>
-    <scope>source.php</scope>
-</snippet>

@@ -1,5 +1,0 @@
-<snippet>
-    <content><![CDATA[->groupBy('${1:}')]]></content>
-    <tabTrigger>groupBy</tabTrigger>
-    <scope>source.php</scope>
-</snippet>
