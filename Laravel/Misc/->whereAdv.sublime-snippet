@@ -1,0 +1,11 @@
+<snippet>
+    <content><![CDATA[
+->orWhere(function ($query) {
+    $query->where('votes', '>', 100)
+          ->where('title', '<>', 'Admin');
+})
+->get();
+    ]]></content>
+    <tabTrigger>adv-where</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

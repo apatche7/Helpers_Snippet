@@ -2,7 +2,7 @@
     <content><![CDATA[
 @section('${1:name}')
     ${0:{{-- expr --\}\}}
-@stop
+@endsection
 ]]></content>
     <tabTrigger>sec</tabTrigger>
     <description>@section stop</description>

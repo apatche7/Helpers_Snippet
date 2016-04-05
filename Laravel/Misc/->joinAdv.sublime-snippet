@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+->join('contacts', function ($join) {
+    $join->on('users.id', '=', 'contacts.user_id')->orOn(...);
+})
+->get();
+    ]]></content>
+    <tabTrigger>adv-join</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

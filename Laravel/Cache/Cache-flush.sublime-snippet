@@ -1,0 +1,5 @@
+<snippet>
+    <content><![CDATA[Cache::flush()]]></content>
+    <tabTrigger>cache-flush</tabTrigger>
+    <scope>source.php</scope>
+</snippet>

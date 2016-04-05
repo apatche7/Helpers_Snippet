@@ -1,0 +1,12 @@
+<snippet>
+    <content><![CDATA[
+->whereExists(function ($query) {
+    $query->select(DB::raw(1))
+          ->from('orders')
+          ->whereRaw('orders.user_id = users.id');
+})
+->get();
+    ]]></content>
+    <tabTrigger>where-exists</tabTrigger>
+    <scope>source.php</scope>
+</snippet>
